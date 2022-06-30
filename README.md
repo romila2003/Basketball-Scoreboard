@@ -29,8 +29,8 @@
 
 ### Links
 
- - [Basketball Scoreboard Source Code](https://github.com/romila2003/Basketball-Scoreboard)
- - [Basketball Scoreboard Live Website](https://scrimba-basketball-scoreboard.netlify.app/)
+ - [Source Code](https://github.com/romila2003/Basketball-Scoreboard)
+ - [Live Website](https://scrimba-basketball-scoreboard.netlify.app/)
 
 ## My process
 
