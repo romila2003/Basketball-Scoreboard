@@ -1,4 +1,4 @@
-﻿/* @font-face kit by Fonts2u (https://fonts2u.com) */ 
+/* @font-face kit by Fonts2u (https://fonts2u.com) */ 
 @font-face {
     font-family:"Cursed Timer ULiL";
     src:url("/Cursed_Timer_ULiL/CursedTimerULiL.eot") format("eot"),
@@ -36,6 +36,7 @@ h3 {
     width: 155px;
     height: 120px;
     border-radius: 5px;
+    margin: auto;
 }
 
 #home-score, #guest-score {
@@ -76,4 +77,19 @@ button {
 
 #add2-btn, #add3-btn {
     margin-left: 9px
+}
+
+@media screen and (max-width: 375px) {
+    button {
+        padding: 0.65em;
+    }
+
+    #addtwo-btn, #addthree-btn {
+        margin-left: 5px;
+    }
+
+    #add2-btn, #add3-btn {
+        margin-left: 5px;
+    }
+
 }
